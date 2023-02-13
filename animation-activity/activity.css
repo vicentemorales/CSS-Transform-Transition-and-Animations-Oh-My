@@ -7,8 +7,9 @@
 
 .hamburger:hover > div:nth-child(2){
   animation-name: middle;
-  animation-duration: .1s;
+  animation-duration: 1s;
   animation-fill-mode: forwards;
+  background-color: transparent;
 }
 
 .hamburger:hover > div:nth-child(3){
